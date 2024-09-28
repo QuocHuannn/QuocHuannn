@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huân</h1>
-<h3 align="center">A passionate Backend developer from VietNam</h3>
+<h3 align="center">A Backend developer from VietNam</h3>
 
 - 🌱 I’m currently learning **Express.js, NestJS**
 

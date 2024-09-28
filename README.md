@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huân</h1>
 <h3 align="center">A Backend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Express.js, NestJS**
+- 🌱 I’m currently learning VNU-HCMUS 
 
 - 📫 How to reach me **truonghuan0709@gmail.com**
 

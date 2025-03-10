@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huân</h1>
-<h3 align="center">A Backend developer from VietNam</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongquochuan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<h3 align="center">Backend developer</h3>
 
 - 🌱 I’m currently learning VNU-HCMUS 
 
@@ -27,9 +23,14 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📈 GitHub Stats:</h3>
+<h3 align="left"></h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongquochuan&theme=radical" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/n9ewEcw0oyHEYEuH1c/giphy.gif" width="500" alt="Programming Meme">
 </p>

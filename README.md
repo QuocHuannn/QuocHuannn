@@ -28,54 +28,6 @@ I'm a backend & fullstack developer who loves building scalable, maintainable pr
 
 ---
 
-## 💼 Featured Work
-
-### 🛒 E-Commerce Microservices Platform
-`Go` `PostgreSQL` `Redis` `Docker` `Kubernetes`  
-A distributed system with separate services for authentication, product catalog, and order management.
-
-Highlights:
-- JWT auth with refresh tokens
-- Redis caching to reduce DB load
-- Dockerized services; K8s manifests
-
----
-
-### 📊 Real-time Dashboard Application
-`React` `TypeScript` `Node.js` `WebSocket` `MongoDB`  
-Responsive admin dashboard with real-time data updates and role-based access control.
-
-Highlights:
-- Live updates via WebSocket
-- RBAC with protected routes
-- Chart-based analytics; optimized rendering
-
----
-
-### ⚙️ CI/CD Pipeline Automation
-`Docker` `Kubernetes` `GitHub Actions` `AWS ECS`  
-Automated deployments for containerized apps with health checks and scaling.
-
-Highlights:
-- Multi-stage Docker builds
-- Build/test/deploy with Actions
-- ECS autoscaling + CloudWatch alerts
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quochuannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quochuannn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quochuannn&theme=tokyonight&hide_border=true" height="140"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quochuannn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" height="140" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">

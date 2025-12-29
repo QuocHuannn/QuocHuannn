@@ -9,12 +9,11 @@
 
 ## 💡 About Me
 
-I'm a backend & fullstack developer who loves building scalable, maintainable products using cloud-native technologies. I enjoy tackling real-world engineering challenges, working with distributed systems, and learning new tools every day.
+I'm a fullstack developer who loves building scalable, maintainable products using cloud-native technologies. I enjoy tackling real-world engineering challenges, working with distributed systems, and learning new tools every day.
 
 - 🛠️ Specialized in Go, Python, React, Kubernetes, AWS
-- 📖 Student at VNU-HCMUS – Information Systems
+- 📖 VNU-HCMUS – Information Systems
 - 🌏 Based in Ho Chi Minh City, Vietnam
-- 🤝 Open to collaboration & continuous learning
 
 ## 🧰 Tech Stack
 

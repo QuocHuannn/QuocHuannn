@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="760" src="terminal.svg" alt="huan@ventra-rocket — terminal" />
+  <img width="760" src="https://raw.githubusercontent.com/QuocHuannn/QuocHuannn/ea02fd22a4ab29c6aa289b16b8d23b816fd24e88/terminal.svg" alt="huan@ventra-rocket — terminal" />
 </div>
 
 <br>

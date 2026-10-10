@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/QuocHuannn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=Fullstack+Engineer;Go+%C2%B7+TypeScript+%C2%B7+React;Distributed+Systems+%26+Cloud-Native;Ship+fast%2C+break+nothing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Fullstack+Engineer;Builder+%40+Ventra+Rocket;Cloud-Native+%26+Agent-Native;Ship+fast%2C+break+nothing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,23 +12,33 @@
 
 ### Hi, I'm Huân
 
-Fullstack engineer — I build distributed systems and the products that run on them.
+Fullstack engineer shipping real products with **[Ventra Rocket](https://github.com/ventra-rocket)** — a HCMC product studio running platforms in production, not demos.
 
 - 🎓 VNU-HCMUS · Information Systems
 - 📍 Ho Chi Minh City, Vietnam
-- 📬 [truonghuan0709@gmail.com](mailto:truonghuan0709@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/truong-quoc-huan-325669319)
+- 📬 [truonghuan0709@gmail.com](mailto:truonghuan0709@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/truong-quoc-huan-325669319)
 
 <br clear="right"/>
+
+---
+
+### 🚀 Shipped @ [Ventra Rocket](https://github.com/ventra-rocket)
+
+| Project | What it does |
+|---|---|
+| [**EchoSEO**](https://github.com/ventra-rocket/EchoSEO) | Open-core, self-hostable Semrush/Ahrefs alternative — audits that verify their own fixes, agent-native MCP workspace on Cloudflare Workers |
+| [**SpeakHub**](https://github.com/ventra-rocket/speakhub) | Booking · payment · AI placement-test platform for an offline English speaking club — multi-branch ops, Postgres RLS |
+| [**Rocket Ranking**](https://github.com/ventra-rocket/Ventra-Rocket-Ranking) | Tournament lifecycle — algorithmic matchmaking, "E-Referee" scoring synced to venue TVs in ms over WebSockets |
+| [**CapyVSTEP**](https://github.com/ventra-rocket/capyvstep) | VSTEP 4-skill practice web, AI-scored Writing/Speaking — Next.js 16 · Postgres · MinIO |
 
 ---
 
 ### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,react,nodejs,tailwind" alt="Languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=typescript,go,python,php,react,vue,nextjs,tailwind" alt="Languages and frontend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,kubernetes,aws" alt="Data and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,kubernetes,cloudflare,workers,aws,nginx" alt="Data and infrastructure" />
 </div>
 
 ---

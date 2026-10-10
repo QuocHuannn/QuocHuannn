@@ -27,9 +27,8 @@ Fullstack engineer shipping real products with **[Ventra Rocket](https://github.
 | Project | What it does |
 |---|---|
 | [**EchoSEO**](https://github.com/ventra-rocket/EchoSEO) | Open-core, self-hostable Semrush/Ahrefs alternative — audits that verify their own fixes, agent-native MCP workspace on Cloudflare Workers |
+| [**Kello**](https://github.com/ventra-rocket/Kello) | B2B data API + consumer hub for the luxury-watch market — unified specs, market listings, price history; Nuxt 3 · Laravel 13 · Postgres · Redis |
 | [**SpeakHub**](https://github.com/ventra-rocket/speakhub) | Booking · payment · AI placement-test platform for an offline English speaking club — multi-branch ops, Postgres RLS |
-| [**Rocket Ranking**](https://github.com/ventra-rocket/Ventra-Rocket-Ranking) | Tournament lifecycle — algorithmic matchmaking, "E-Referee" scoring synced to venue TVs in ms over WebSockets |
-| [**CapyVSTEP**](https://github.com/ventra-rocket/capyvstep) | VSTEP 4-skill practice web, AI-scored Writing/Speaking — Next.js 16 · Postgres · MinIO |
 
 ---
 

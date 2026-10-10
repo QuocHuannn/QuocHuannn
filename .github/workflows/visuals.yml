@@ -18,6 +18,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: QuocHuannn
 
+      - name: Generate static night-view variant
+        run: |
+          python3 - <<'EOF'
+          import re
+          s = open('profile-3d-contrib/profile-night-view.svg').read()
+          s = re.sub(r'<animate[^>]*/>', '', s)
+          s = re.sub(r'<animate[^>]*></animate>', '', s)
+          s = re.sub(r'<animateTransform[^>]*/>', '', s)
+          s = re.sub(r'<animateTransform[^>]*></animateTransform>', '', s)
+          open('profile-3d-contrib/profile-night-view-static.svg','w').write(s)
+          EOF
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output-3d

@@ -14,9 +14,9 @@
 
 <br>
 
-**langs** — TypeScript · Go · Python · PHP
-**ui** — React · Next.js · Vue/Nuxt · Tailwind
-**ops** — Postgres · Redis · Docker · Kubernetes · Cloudflare Workers
+- **langs** · TypeScript · Go · Python · PHP
+- **ui** · React · Next.js · Vue/Nuxt · Tailwind
+- **ops** · Postgres · Redis · Docker · Kubernetes · Cloudflare Workers
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuocHuannn/QuocHuannn/output/github-contribution-grid-snake-dark.svg" />

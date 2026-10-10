@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img width="760" src="https://raw.githubusercontent.com/QuocHuannn/QuocHuannn/output-3d/profile-night-rainbow.svg" alt="3d contribution graph" />
+  <img width="760" src="https://raw.githubusercontent.com/QuocHuannn/QuocHuannn/output-3d/profile-season.svg" alt="3d contribution graph" />
 </div>
 
 <div align="center">
